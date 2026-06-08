@@ -82,6 +82,8 @@ For full local dev including the API proxy, use the [Vercel CLI](https://vercel.
 ```bash
 npm i -g vercel
 vercel dev
+
+FINAL V6.0
 ```
 
 Set `POKEPRICE_API_KEY` in a local `.env` file (see `.env.example`).
